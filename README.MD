@@ -1,7 +1,5 @@
 
-# Project Title
-
-My Boggle
+# My Boggle
 
 ## Getting Started
 
